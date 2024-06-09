@@ -1,0 +1,7 @@
+tr{
+    background-color: rgb(214, 214, 214);
+    width: 300px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
